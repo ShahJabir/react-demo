@@ -31,7 +31,9 @@ This is a simple react demo project while I'm learning this
 
 👉 **To-Do App**: Simple To-Do App.
 
-👉 **10 Star Rating**: A interactive 10 star review bar.
+👉 **Custom Star Rating**: A interactive custom star review bar.
+
+👉 **Custom State Project**: A custom state project.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 

@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import StarRating from './components/StarRating';
 import ToDoList from './components/ToDoList';
+import StateProjects from './components/StateProjects';
 
 function CustomStar() {
   const [movieRating, setMovieRating] = useState(0);
@@ -29,6 +30,9 @@ function App() {
       </div>
       <div id="todoList">
         <ToDoList />
+      </div>
+      <div id="stateProject">
+        <StateProjects />
       </div>
     </>
   );
