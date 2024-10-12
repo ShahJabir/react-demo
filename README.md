@@ -35,6 +35,8 @@ This is a simple react demo project while I'm learning this
 
 👉 **Custom State Project**: A custom state project.
 
+👉 **Product card with dark mode toggle Project**: A Product card with dark mode toggle project.
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
