@@ -2,7 +2,7 @@
 
 <div align="center">
 
-⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/3d_portfolio?color=blue)](https://github.com/ShahJabir/react-demo/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/Shahjabir_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/react-demo)
+⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/react-demo?color=blue)](https://github.com/ShahJabir/react-demo/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/react-demo) ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/react-demo)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
