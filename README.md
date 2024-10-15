@@ -37,6 +37,8 @@ This is a simple react demo project while I'm learning this
 
 👉 **Product card with dark mode toggle Project**: A Product card with dark mode toggle project.
 
+👉 **Background Changer**: 5 color supported Background Changer (More color can be addable).
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
