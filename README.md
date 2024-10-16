@@ -41,6 +41,8 @@ This is a simple react demo project while I'm learning this
 
 👉 **Password Generator**: A Password Generator. Where you can generate password.
 
+👉 **Currency Converter**: A currency converter with supported all currency.
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.

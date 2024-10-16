@@ -1,8 +1,10 @@
-import PassGenerator from './components/PassGenerator';
+import CurrencyConverter from './components/CurrencyConverter/CurrencyConverter';
 function App() {
   return (
     <>
-      <PassGenerator />
+      <div>
+        <CurrencyConverter />
+      </div>
     </>
   );
 }
